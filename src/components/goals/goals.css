@@ -1,0 +1,82 @@
+.g_back{
+    margin-top: 50px;
+    background-image: linear-gradient(to right, rgb(255, 240, 23), rgb(170, 133, 9));
+    padding: 75px;
+}
+
+.pd{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.f1{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: blue;
+    transition: transform .5s;
+}
+
+.f2{
+    font-size: 42px;
+    margin-left: 200px;
+    margin-top: 40px;
+    color: blue;
+    transition: transform .5s;
+}
+
+.f3{
+    font-size: 42px;
+    margin-left: 200px;
+    margin-top: 110px;
+    color: blue;
+    transition: transform .5s;
+}
+
+.goalhead{
+    text-align: center;
+    padding-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.sh3{
+    font-weight: bold;
+    color: rgb(194, 181, 6);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.mymy{
+    height: 75%;
+    margin: 50px;
+    margin-left: 100px;
+    transition: transform .5s;
+}
+
+.f3:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.3);
+    color: red;
+}
+
+.f1:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.3);
+    color: red;
+}
+
+.f2:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.3);
+    color: red;
+}
+
+.mymy:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+    color: red;
+}

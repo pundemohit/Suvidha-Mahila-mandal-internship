@@ -1,0 +1,41 @@
+.abbb{
+    height: 350px;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    border-radius: 5px;
+}
+
+.leto{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.ab_pad{
+    background-image: linear-gradient(to left, rgb(255, 240, 23), rgb(170, 133, 9));
+    padding: 75px;
+}
+.ab_back{
+    background-color: aliceblue;
+    padding-bottom: 50px;
+    border-radius: 20px;
+}
+
+.bol{
+    margin-top: 2rem;
+    margin-right: 2rem;
+    text-align: center;
+}
+
+#title{
+    font-weight: bold;
+    color: rgb(194, 181, 6);
+    font-family:'Times New Roman', Times, serif;
+    padding-bottom: 2rem;
+}
+
+h6{
+    line-height: 1.5rem;
+    padding-bottom: 2rem;
+}

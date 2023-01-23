@@ -1,0 +1,45 @@
+
+
+.loggo{
+    margin-left: 25%;
+    margin-top: 25px;
+}
+
+.name{
+    font-weight: bold;
+    color: rgb(194, 181, 6);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.wel{
+    margin-top: 25px;
+    font-size: xx-large;
+}
+
+.mar{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    background-image: linear-gradient(to right, rgb(255, 240, 23), rgb(170, 133, 9));
+}
+
+.cons{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.bod{
+    background-image: linear-gradient(to right, rgb(255, 240, 23), rgb(170, 133, 9));
+    padding: 50px;
+}
+
+#quote{
+    text-align: center;
+    font-weight: bold;
+}
+
+.bob{
+    margin-bottom: 25px;
+}
+.ali{
+    text-align: center;
+}
